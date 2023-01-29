@@ -22,7 +22,7 @@
 
     <div class="custom-breadcrumns border-bottom">
       <div class="container">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span class="mx-3 icon-keyboard_arrow_right"></span>
         <span class="current">Services</span>
       </div>
@@ -34,7 +34,7 @@
                 <div class="col-lg-4 col-md-6 mb-4">
                     <div class="course-1-item">
                         <figure class="thumnail">
-                        <a href="service-single.php"><img src="images/course_1.jpg" alt="Image" class="img-fluid"></a>
+                        <a href="service-single"><img src="images/course_1.jpg" alt="Image" class="img-fluid"></a>
                        <!-- <div class="price">$99.00</div> -->
                         <div class="category"><h3>Project Development</h3></div>
                         </figure>
@@ -48,14 +48,14 @@
                             <span class="icon-star2 text-warning"></span>
                         </div> -->
                         <p class="desc mb-4">Maximize your productivity and achieve your goals with our comprehensive project management solutions.</p>
-                        <p><a href="service-single.php" class="btn btn-primary rounded-0 px-4">Enroll</a></p>
+                        <p><a href="service-single" class="btn btn-primary rounded-0 px-4">Enroll</a></p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4">
                     <div class="course-1-item">
                         <figure class="thumnail">
-                            <a href="service-single.php"><img src="images/course_1.jpg" alt="Image" class="img-fluid"></a>
+                            <a href="service-single"><img src="images/course_1.jpg" alt="Image" class="img-fluid"></a>
                             <!-- <div class="price">$99.00</div> -->
                             <div class="category"><h3>Project Development</h3></div>
                         </figure>
@@ -69,14 +69,14 @@
                                  <span class="icon-star2 text-warning"></span>
                              </div> -->
                             <p class="desc mb-4">Maximize your productivity and achieve your goals with our comprehensive project management solutions.</p>
-                            <p><a href="service-single.php" class="btn btn-primary rounded-0 px-4">Enroll</a></p>
+                            <p><a href="service-single" class="btn btn-primary rounded-0 px-4">Enroll</a></p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4">
                     <div class="course-1-item">
                         <figure class="thumnail">
-                            <a href="service-single.php"><img src="images/course_1.jpg" alt="Image" class="img-fluid"></a>
+                            <a href="service-single"><img src="images/course_1.jpg" alt="Image" class="img-fluid"></a>
                             <!-- <div class="price">$99.00</div> -->
                             <div class="category"><h3>Project Development</h3></div>
                         </figure>
@@ -90,7 +90,7 @@
                                  <span class="icon-star2 text-warning"></span>
                              </div> -->
                             <p class="desc mb-4">Maximize your productivity and achieve your goals with our comprehensive project management solutions.</p>
-                            <p><a href="service-single.php" class="btn btn-primary rounded-0 px-4">Enroll</a></p>
+                            <p><a href="service-single" class="btn btn-primary rounded-0 px-4">Enroll</a></p>
                         </div>
                     </div>
                 </div>

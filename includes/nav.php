@@ -28,7 +28,7 @@
     <div class="container">
         <div class="d-flex align-items-center">
             <div class="site-logo">
-                <a href="index.php" class="d-block">
+                <a href="index" class="d-block">
                     <img src="images/seneca-logo.png" alt="Image" class="img-fluid">
                 </a>
             </div>
@@ -36,23 +36,23 @@
                 <nav class="site-navigation position-relative text-right" role="navigation">
                     <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
                         <li class="active">
-                            <a href="index.php" class="nav-link text-left">Home</a>
+                            <a href="index" class="nav-link text-left">Home</a>
                         </li>
                         <li class="has-children">
-                            <a href="about.php" class="nav-link text-left">About Us</a>
+                            <a href="about" class="nav-link text-left">About Us</a>
                             <ul class="dropdown">
-                                <!--<li><a href="teachers.php">Our Teachers</a></li>-->
+                                <!--<li><a href="teachers">Our Teachers</a></li>-->
                                 <li><a href="">Our School</a></li>
                             </ul>
                         </li>
                         <li>
-                            <a href="admissions.php" class="nav-link text-left">Admissions</a>
+                            <a href="admissions" class="nav-link text-left">Admissions</a>
                         </li>
                         <li>
-                            <a href="services.php" class="nav-link text-left">Book Online</a>
+                            <a href="services" class="nav-link text-left">Book Online</a>
                         </li>
                         <li>
-                            <a href="contact.php" class="nav-link text-left">Contact</a>
+                            <a href="contact" class="nav-link text-left">Contact</a>
                         </li>
                     </ul>                                                                                                                                                                                                                                                                                          </ul>
                 </nav>

@@ -21,9 +21,9 @@
 
     <div class="custom-breadcrumns border-bottom">
       <div class="container">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span class="mx-3 icon-keyboard_arrow_right"></span>
-        <a href="services.php">Services</a>
+        <a href="services">Services</a>
         <span class="mx-3 icon-keyboard_arrow_right"></span>
         <span class="current">Services</span>
       </div>

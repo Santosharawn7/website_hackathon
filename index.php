@@ -124,7 +124,7 @@
               <div class="owl-slide-3 owl-carousel">
                   <div class="course-1-item">
                     <figure class="thumnail">
-                      <a href="service-single.php"><img src="images/course_1.jpg" alt="Image" class="img-fluid"></a>
+                      <a href="service-single"><img src="images/course_1.jpg" alt="Image" class="img-fluid"></a>
                       <!--<div class="price">$99.00</div>-->
                       <div class="category"><h3>Smartcities Hackathon 2023 Organizers</h3></div>
                     </figure>
@@ -138,13 +138,13 @@
                         <span class="icon-star2 text-warning"></span>
                       </div>-->
                       <p class="desc mb-4">Participate in Hacathon 2023</p>
-                      <p><a href="service-single.php" class="btn btn-primary rounded-0 px-4">Join</a></p>
+                      <p><a href="service-single" class="btn btn-primary rounded-0 px-4">Join</a></p>
                     </div>
                   </div>
       
                   <div class="course-1-item">
                     <figure class="thumnail">
-                      <a href="service-single.php"><img src="images/course_2.jpg" alt="Image" class="img-fluid"></a>
+                      <a href="service-single"><img src="images/course_2.jpg" alt="Image" class="img-fluid"></a>
                         <!--<div class="price">$99.00</div>-->
                       <div class="category"><h3>Smartcities Hackathon Public Domain</h3></div>
                     </figure>
@@ -158,13 +158,13 @@
                         <span class="icon-star2 text-warning"></span>
                       </div>-->
                       <p class="desc mb-4">Smartcities Hackathon Public Domain</p>
-                      <p><a href="service-single.php" class="btn btn-primary rounded-0 px-4">Join</a></p>
+                      <p><a href="service-single" class="btn btn-primary rounded-0 px-4">Join</a></p>
                     </div>
                   </div>
       
                   <div class="course-1-item">
                     <figure class="thumnail">
-                      <a href="service-single.php"><img src="images/course_3.jpg" alt="Image" class="img-fluid"></a>
+                      <a href="service-single"><img src="images/course_3.jpg" alt="Image" class="img-fluid"></a>
                       <!-- <div class="price">$99.00</div>-->
                       <div class="category"><h3>How To Create Mobile Apps Using Ionic</h3></div>
                     </figure>
@@ -178,7 +178,7 @@
                         <span class="icon-star2 text-warning"></span>
                       </div>-->
                       <p class="desc mb-4">Learn to create mobile apps.</p>
-                      <p><a href="service-single.php" class="btn btn-primary rounded-0 px-4">Join</a></p>
+                      <p><a href="service-single" class="btn btn-primary rounded-0 px-4">Join</a></p>
                     </div>
                   </div>
                   

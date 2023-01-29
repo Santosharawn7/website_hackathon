@@ -22,7 +22,7 @@
 
     <div class="custom-breadcrumns border-bottom">
       <div class="container">
-        <a href="index.php">Home</a>
+        <a href="index">Home</a>
         <span class="mx-3 icon-keyboard_arrow_right"></span>
         <span class="current">News</span>
       </div>
